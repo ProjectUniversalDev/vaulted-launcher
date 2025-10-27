@@ -42,8 +42,6 @@ Our mission is to **preserve** the classic Fortnite experience responsibly, ensu
 ### Step 1 — Download the Latest Release
 Head to the **[Releases page](https://github.com/yourusername/ProjectVaulted/releases)** and download the latest version for your platform:
 - `ProjectVaulted-Setup.exe` (Windows)
-- `ProjectVaulted.dmg` (macOS)
-- `ProjectVaulted.AppImage` (Linux)
 
 ### Step 2 — Install & Launch
 1. Run the downloaded installer  
